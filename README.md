@@ -5,7 +5,7 @@ We constructed a dataset of 3,074 AIE/ACQ molecules, built a prediction model wi
 * Python 3.9.12
 * Scikit-learn
 * Pandas
-* 
+
 The files AIE727x.xlsx correspond to the inputs of the models constructed for AIE.
 File AIE727y.xlsx serves as the output for the ML model construction.
 80AIEYZ.xlsx contains detailed inputs information on 80 recently reported fluorescent organic compounds.
